@@ -1,0 +1,22 @@
+title:ArmchairTony's Exotic Class Item Wishlist
+description:Collection of hopefull Class Items.
+//notes:Hunter PvE Meta Picks
+dimwishlist:item=2809120022&perks=1476923952,3751917992
+dimwishlist:item=2809120022&perks=3751917996,1476923956
+//notes:Interesting Hunter Roles
+dimwishlist:item=2809120022&perks=1476923953,3751917992#notes:PvE
+dimwishlist:item=2809120022&perks=3751917998,1476923955#notes:PvE
+dimwishlist:item=2809120022&perks=1476923952,3751917993#notes:Good PvE synergy
+//notes:PvP Meta Picks
+dimwishlist:item=2809120022&perks=3751917999,3751917991
+dimwishlist:item=2809120022&perks=3751917999,3751917990
+//notes:Warlock PvE Meta Picks
+dimwishlist:item=2273643087&perks=183430252,1476923956
+dimwishlist:item=2273643087&perks=1476923953,1476923956
+dimwishlist:item=2273643087&perks=183430250,1476923955
+//notes:Interesting Warlock Roles
+dimwishlist:item=2273643087&perks=183430253,183430249
+dimwishlist:item=2273643087&perks=183430250,1476923955
+//notes:Titan PvE Meta Picks
+dimwishlist:item=266021826&perks=1476923952,1476923956
+dimwishlist:item=266021826&perks=3573490505,3573490500
