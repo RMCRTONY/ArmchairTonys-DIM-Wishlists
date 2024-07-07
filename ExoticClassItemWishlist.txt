@@ -7,6 +7,7 @@ dimwishlist:item=2809120022&perks=3751917996,1476923956
 dimwishlist:item=2809120022&perks=1476923953,3751917992#notes:PvE
 dimwishlist:item=2809120022&perks=3751917998,1476923955#notes:PvE
 dimwishlist:item=2809120022&perks=1476923952,3751917993#notes:Good PvE synergy
+dimwishlist:item=2809120022&perks=3751917997,1476923957#notes:Good PvE synergy
 //notes:PvP Meta Picks
 dimwishlist:item=2809120022&perks=3751917999,3751917991
 dimwishlist:item=2809120022&perks=3751917999,3751917990
