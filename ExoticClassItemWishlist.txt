@@ -3,6 +3,7 @@ description:Collection of hopefull Class Items.
 //notes:Hunter PvE Meta Picks
 dimwishlist:item=2809120022&perks=1476923952,3751917992
 dimwishlist:item=2809120022&perks=3751917996,1476923956
+dimwishlist:item=2809120022&perks=1476923953,1476923956
 //notes:Interesting Hunter Roles
 dimwishlist:item=2809120022&perks=1476923953,3751917992#notes:PvE
 dimwishlist:item=2809120022&perks=3751917998,1476923955#notes:PvE
